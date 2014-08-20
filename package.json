@@ -1,0 +1,19 @@
+{
+  "name": "cjh-services",
+  "author": "Christy Haragan",
+  "version": "0.0.1",
+  "dependencies": {
+    "underscore": "~1.6.0",
+    "rsvp": "~3.0.9"
+  },
+  "devDependencies": {
+    "mocha": "~1.20.0",
+    "sinon": "~1.10.2",
+    "sinon-chai": "~2.5.0",
+    "chai": "~1.9.1"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "main": "lib/index.js"
+}
